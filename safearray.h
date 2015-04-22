@@ -6,7 +6,6 @@ class safearray{
 	public :
 		safearray(int nu);
 		void append(int nu);
-		int show(int position);
 		int & operator [](int i){
 			return a.at(i);
 		}

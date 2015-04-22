@@ -1,3 +1,8 @@
+/*
+Date : 2015-4-22 08:44
+Author : zyy(helloqiu)
+Description : I learned how to reload operator yesterday and this is my homework
+*/
 #include<iostream>
 #include"safearray.h"
 
