@@ -9,3 +9,4 @@ safearray::safearray(int nu){
 void::safearray::append(int nu){
 	a.push_back(nu);
 }
+
